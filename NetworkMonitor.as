@@ -1,7 +1,5 @@
-Windows-Forms
-=============
+Code for Adobe Macromedia - Works with Sybase 
 
-Code for Windows Forms
 ////////////////////////////////////////////////////////////////////////////////
 //
 //  Copyright (C) 2003-2006 Adobe Macromedia Software LLC and its licensors.
